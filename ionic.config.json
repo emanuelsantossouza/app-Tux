@@ -1,0 +1,7 @@
+{
+  "name": "Io.Io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
